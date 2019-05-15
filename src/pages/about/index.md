@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Profilo
+title: Il mio Profilo
 ---
 ### Shade-grown coffee
 
